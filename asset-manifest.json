@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cursor_emoji/static/css/main.cf4cb598.css",
+    "main.js": "/cursor_emoji/static/js/main.64cf2f6f.js",
+    "static/js/453.2de79801.chunk.js": "/cursor_emoji/static/js/453.2de79801.chunk.js",
+    "index.html": "/cursor_emoji/index.html",
+    "main.cf4cb598.css.map": "/cursor_emoji/static/css/main.cf4cb598.css.map",
+    "main.64cf2f6f.js.map": "/cursor_emoji/static/js/main.64cf2f6f.js.map",
+    "453.2de79801.chunk.js.map": "/cursor_emoji/static/js/453.2de79801.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf4cb598.css",
+    "static/js/main.64cf2f6f.js"
+  ]
+}
